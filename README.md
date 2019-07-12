@@ -28,6 +28,5 @@ connection.execute(
 ## Screenshots
 
 ![img](https://github.com/GondiaUmesh/Student-Management-System/blob/master/front.png)
-![img](https://github.com/GondiaUmesh/Student-Management-System/blob/master/novalue.png)
 ![img](https://github.com/GondiaUmesh/Student-Management-System/blob/master/sucess.png)
 ![img](https://github.com/GondiaUmesh/Student-Management-System/blob/master/saveddata.png)
