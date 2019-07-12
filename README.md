@@ -10,19 +10,19 @@
 
 1.Tkinter code
 
-~~
+``
 import tkinter as tk
 from tkinter import ttk, messagebox
 mainWindow=tk.Tk()
-~~
+``
 
 2.Insert record 
 
-~~
+``
 connection.execute(
                 "INSERT INTO " + TABLE_NAME + " ( " + STUDENT_NAME + ", " + STUDENT_COLLEGE + ", " + STUDENT_ADDRESS +
                                    ", " + STUDENT_PHONE + " ) VALUES ( '" +name+"', '"+college+"'," + " '"+address+"',"+phone +");")
-~~
+``
 
 
 ## Screenshots
